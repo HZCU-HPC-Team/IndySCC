@@ -1,4 +1,4 @@
-# IndySCC
+# IndySCC-hero-HPL
 2025
 
 ---
