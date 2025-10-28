@@ -1,7 +1,7 @@
 # IndySCC
 2025
 
-
+---
  High Performance Computing Linpack Benchmark (HPL)
  HPL - 2.3 - December 2, 2018
 
@@ -20,13 +20,11 @@
  are available for a large variety of systems.
 
  Install See the file INSTALL in this directory.
- -------
 
  Tuning  See the file TUNING in this directory.
- ------
 
  Bugs  Known  problems and bugs with this release are documen-
- ----  ted in the file hpl/BUGS.
+ted in the file hpl/BUGS.
 
  Check out  the website  www.netlib.org/benchmark/hpl  for the
  latest information.
