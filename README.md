@@ -31,7 +31,7 @@
  Check out  the website  www.netlib.org/benchmark/hpl  for the
  latest information.
 
-==============================================================
+---
 HPL Benchmark Results
 
 Project Description
